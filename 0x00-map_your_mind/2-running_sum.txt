@@ -1,0 +1,8 @@
+Algorithm START
+READ integer n from Input
+WHILE n is greater than or equal to zero (n >= 0)
+    sum = sum + n
+    READ integer n from Input
+END WHILE
+PRINT sum
+Algorithm END
